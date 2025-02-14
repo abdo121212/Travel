@@ -32,7 +32,7 @@ const FooterLinks = [
 const Footer = () => {
   return (
     <>
-      <div className="py-10 relative overflow-hidden ">
+      <div className="py-10 relative overflow-hidden mt-20">
         <video
           autoPlay
           loop
