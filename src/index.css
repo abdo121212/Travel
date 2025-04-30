@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  .active {
+    @apply text-cyan-700;
+  }
+
+  .container {
+    @apply px-16 mx-auto;
+  }
+}
